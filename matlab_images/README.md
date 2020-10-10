@@ -2,10 +2,10 @@
 
 ![./coins.png](./coins.png)
 
-![./sample1.png](./sample1.png)
+![./sample01.png](./sample01.png)
 
-![./sample2.png](./sample2.png)
+![./sample02.png](./sample02.png)
 
-![./sample3.png](./sample3.png)
+![./sample03.png](./sample03.png)
 
-![./sample4.jpg](./sample4.jpg)
+![./sample04.jpg](./sample04.jpg)
