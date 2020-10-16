@@ -1,7 +1,7 @@
 
 ## 处理前的图片
 
-![./monalis.png](./monalis.png)
+![./monalisa.png](./monalisa.png)
 
 ![./cat.png](./cat.png)
 
